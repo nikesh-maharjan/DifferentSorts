@@ -1,0 +1,7 @@
+C:\Users\nikesh\source\repos\Sorts\QuckSort\obj\Debug\QuckSort.csprojResolveAssemblyReference.cache
+C:\Users\nikesh\source\repos\Sorts\QuckSort\obj\Debug\QuckSort.csproj.CoreCompileInputs.cache
+C:\Users\nikesh\source\repos\Sorts\QuckSort\bin\Debug\QuckSort.exe.config
+C:\Users\nikesh\source\repos\Sorts\QuckSort\bin\Debug\QuckSort.exe
+C:\Users\nikesh\source\repos\Sorts\QuckSort\bin\Debug\QuckSort.pdb
+C:\Users\nikesh\source\repos\Sorts\QuckSort\obj\Debug\QuckSort.exe
+C:\Users\nikesh\source\repos\Sorts\QuckSort\obj\Debug\QuckSort.pdb

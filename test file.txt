@@ -1,0 +1,1 @@
+Quick sort uses divide and conquer method.
